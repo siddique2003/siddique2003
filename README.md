@@ -33,6 +33,6 @@ I'm Muhammad Siddique Khatri, a passionate developer from Karachi, Pakistan. I a
 
 ⚡ **Random Dev Gif**:
 <!-- Gif Source: Giphy -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3hvNzcxZnZpMXp4N2R5eGZhcXA3MGNxNnEwZGJvYmdtMno0bjNybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="300" height="200" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnF4NnlxdWlzOGE1dG5hbDI3dW5ld3N2bXVkbjE5OWtldzRibGJvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="300" height="200" />
 
 Let's collaborate and build amazing things together! 🚀
