@@ -27,7 +27,7 @@ I'm Muhammad Siddique Khatri, a passionate developer from Karachi, Pakistan. I a
 
 🌐 **Connect with Me**:
    - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/muhammad-siddique-8735511b4/)
-   - [![Spotify](https://img.shields.io/badge/Spotify-Follow-green)](https://open.spotify.com/user/31c7fqo2jea6kq34x5ydlya5e324?si=d14f1c41fc77449b)
+   - [![Spotify](https://img.shields.io/badge/Spotify-Follow-green)](https://open.spotify.com/user/31sjvibquyx7o6ffik4c7x7bedne?si=c2aab2f429134322)
 
 😄 **Pronouns**: He/Him
 
